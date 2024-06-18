@@ -28,7 +28,7 @@ Bürgerinnen und Bürger, die nicht persönlich an allen Entscheidungen teilnehm
 
 #### 4. Transparenz und Rechenschaftspflicht
 
-Alle Entscheidungen und Abstimmungen der Stellvertreter sind für die Bürger, die sie gewählt haben, einsehbar. Diese Informationen sind jedoch nur für die jeweiligen Bürger zugänglich, um die Vertraulichkeit zu wahren. Bürger können jederzeit die Aktivitäten ihrer Stellvertreter überprüfen und gegebenenfalls ihre Stellvertretung ändern. Wenn Bürger feststellen, dass ihre Stellvertreter nicht in ihrem Interesse handeln, können sie diesen jederzeit das Recht entziehen und einem anderen Stellvertreter erteilen.
+Alle Entscheidungen und Abstimmungen der Stellvertreter sind für die Bürger, die sie gewählt haben, einsehbar. Diese Informationen sind jedoch nur für die jeweiligen Bürger zugänglich, um die Vertraulichkeit zu wahren. Bürger können jederzeit die Aktivitäten ihrer Stellvertreter überprüfen und gegebenenfalls ihre Stellvertretung ändern. Wenn Bürger feststellen, dass ihre Stellvertreter nicht in ihrem Interesse handeln, können sie diesen jederzeit das Mandat entziehen und einem anderen Stellvertreter erteilen.
 
 #### 5. Bürgerfreundlichkeit als Leitprinzip
 
