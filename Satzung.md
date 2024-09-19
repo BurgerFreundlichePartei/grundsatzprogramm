@@ -7,7 +7,7 @@ Die BürgerFreundlichePartei (BFP) setzt sich dafür ein, dass alle Bürgerinnen
 #### §1 Name, Sitz und Tätigkeitsgebiet
 
 1. Der Name der Partei lautet: BürgerFreundlichePartei (BFP).
-2. Der Sitz der Partei ist in Berlin.
+2. Der Sitz der Partei ist in Ludwigsburg.
 3. Das Tätigkeitsgebiet der Partei umfasst das gesamte Gebiet der Bundesrepublik Deutschland sowie die Ebene der Europäischen Union.
 
 #### §2 Ziele und Aufgaben
