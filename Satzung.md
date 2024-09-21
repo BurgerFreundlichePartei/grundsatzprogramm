@@ -78,7 +78,11 @@ Die BürgerFreundlichePartei (BFP) setzt sich dafür ein, dass alle Bürgerinnen
 1. Die Auflösung der Partei kann nur durch einen Beschluss des Parteitags mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder erfolgen.
 2. Im Falle der Auflösung fällt das Vermögen der Partei an eine gemeinnützige Organisation, die vom Parteitag bestimmt wird.
 
-#### §13 Schlussbestimmungen
+#### §13 Schutz der Gründungsmitglieder
+
+Gründungsmitglieder der BürgerFreundlichenPartei (BFP) können nicht ohne weiteres durch andere Mitglieder der Partei ausgeschlossen werden. Ein Ausschluss eines Gründungsmitglieds ist nur zulässig, wenn das Mitglied aktiv gegen die Partei handelt, dies öffentlich zur Schau stellt und dabei erheblichen Schaden für die Partei verursacht. Über den Ausschluss eines Gründungsmitglieds entscheidet der Parteitag mit einer Mehrheit von drei Vierteln der anwesenden Mitglieder.
+
+#### §14 Schlussbestimmungen
 
 1. Diese Satzung tritt mit ihrer Beschlussfassung durch den Parteitag in Kraft.
 2. Änderungen der Satzung bedürfen einer Zweidrittelmehrheit des Parteitags.
