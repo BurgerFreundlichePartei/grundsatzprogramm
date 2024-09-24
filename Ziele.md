@@ -1,4 +1,4 @@
-# Ziele der BürgerFreundlichenPartei (BFP)
+# Ziele der BürgerFreundlichePartei (BFP)
 
 ## 1. Senkung der Steuern und Abschaffung obsoleter Steuern
 Die BFP setzt sich für die Senkung von Steuern und die Abschaffung veralteter und unnötiger Steuerarten ein, um die finanzielle Belastung der Bürger zu reduzieren und ein gerechteres Steuersystem zu schaffen.
@@ -44,4 +44,4 @@ Wir unterstützen und fördern das ehrenamtliche Engagement der Bürger, um das 
 
 ---
 
-Diese Ziele repräsentieren das Engagement der BürgerFreundlichenPartei für eine bürgernahe, gerechte und zukunftsorientierte Politik. Gemeinsam gestalten wir eine bessere Zukunft!
+Diese Ziele repräsentieren das Engagement der BürgerFreundlichePartei für eine bürgernahe, gerechte und zukunftsorientierte Politik. Gemeinsam gestalten wir eine bessere Zukunft!

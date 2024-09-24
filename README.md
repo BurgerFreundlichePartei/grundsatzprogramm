@@ -1,4 +1,4 @@
-### Grundsatzprogramm der BürgerFreundlichenPartei (BFP)
+### Grundsatzprogramm der BürgerFreundlichePartei (BFP)
 
 #### Präambel
 
@@ -21,7 +21,7 @@ Zur Umsetzung der direkten Demokratie wird eine sichere und benutzerfreundliche 
 
 Bürgerinnen und Bürger, die nicht persönlich an allen Entscheidungen teilnehmen möchten oder können, haben die Möglichkeit, ihre Stimme an einen oder mehrere Stellvertreter zu delegieren. Diese Stellvertreter können für verschiedene Ebenen gewählt werden:
 
-- **Kommunal**: Stellvertreter auf Stadtebene
+- **Kommunal**: Stellvertreter von Städten und Gemeinden
 - **Landesweit**: Stellvertreter auf Landesebene
 - **National**: Stellvertreter auf Bundesebene
 - **Europäisch**: Stellvertreter für das Europäische Parlament

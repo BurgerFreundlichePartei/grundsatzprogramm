@@ -1,4 +1,4 @@
-### Satzung der BürgerFreundlichenPartei (BFP)
+### Satzung der BürgerFreundlichePartei (BFP)
 
 #### Präambel
 
@@ -25,10 +25,8 @@ Die BürgerFreundlichePartei (BFP) setzt sich dafür ein, dass alle Bürgerinnen
 
 #### §4 Rechte und Pflichten der Mitglieder
 
-1. Jedes Mitglied hat das Recht, an der politischen Willensbildung innerhalb der Partei mitzuwirken und an Wahlen und Abstimmungen teilzunehmen.
-2. Jedes Mitglied hat das Recht, sich über die Tätigkeiten der Stellvertreter zu informieren und diese Stellvertretung jederzeit zu ändern.
-3. Jedes Mitglied hat die Pflicht, die Ziele der Partei zu unterstützen und aktiv an der Verwirklichung der Parteiziele mitzuwirken.
-4. Jedes Mitglied hat das Recht, für seine politische Teilhabe entlohnt zu werden, sofern es persönlich an Entscheidungsprozessen teilnimmt.
+1. Jedes Mitglied hat das Recht, an der politischen Willensbildung innerhalb der Partei mitzuwirken.
+2. Jedes Mitglied hat die Pflicht, die Ziele der Partei zu unterstützen und aktiv an der Verwirklichung der Parteiziele mitzuwirken.
 
 #### §5 Organe der Partei
 
@@ -40,20 +38,21 @@ Die BürgerFreundlichePartei (BFP) setzt sich dafür ein, dass alle Bürgerinnen
 #### §6 Der Parteitag
 
 1. Der Parteitag ist das höchste Organ der Partei. Er setzt sich aus allen Mitgliedern der Partei zusammen.
-2. Der Parteitag findet mindestens einmal jährlich statt. Er wird vom Vorstand unter Angabe der Tagesordnung und einer Frist von vier Wochen einberufen.
+2. Der Parteitag findet mindestens einmal jährlich statt. Er wird vom Vorstand unter Angabe der Tagesordnung und einer Frist von mindestens vier Wochen einberufen.
 3. Der Parteitag wählt den Vorstand, beschließt das Parteiprogramm und entscheidet über Satzungsänderungen.
-4. Der Parteitag ist beschlussfähig, wenn mindestens 10% der Mitglieder anwesend sind.
+4. Der Parteitag ist beschlussfähig, wenn mindestens 35% der Mitglieder anwesend sind.
+5. Die Teilnahme am Parteitag kann sowohl persönlich als auch online erfolgen. Die technischen Voraussetzungen für die Online-Teilnahme werden rechtzeitig durch den Vorstand bekanntgegeben.
 
 #### §7 Der Vorstand
 
-1. Der Vorstand besteht aus dem Vorsitzenden, zwei Stellvertretern, dem Schatzmeister und bis zu fünf weiteren Mitgliedern.
+1. Der Vorstand besteht aus dem Vorsitzenden, zwei Stellvertretern, dem Schatzmeister und bis zu drei weiteren Mitgliedern.
 2. Der Vorstand wird vom Parteitag für die Dauer von zwei Jahren gewählt.
 3. Der Vorstand führt die laufenden Geschäfte der Partei und vertritt die Partei nach außen.
-4. Der Vorstand ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist.
+4. Der Vorstand ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist, wobei sowohl die persönliche als auch die online Teilnahme als anwesend gilt.
 
 #### §8 Die Stellvertreterversammlung
 
-1. Die Stellvertreterversammlung besteht aus den gewählten Stellvertretern der Mitglieder auf kommunaler, regionaler, nationaler und europäischer Ebene.
+1. Die Stellvertreterversammlung besteht aus den gewählten Stellvertretern der Mitglieder auf kommunaler, regionaler, länder, nationaler und europäischer Ebene.
 2. Die Stellvertreterversammlung trifft Entscheidungen im Auftrag der Mitglieder und stellt sicher, dass diese Entscheidungen transparent und bürgerfreundlich sind.
 3. Die Stellvertreterversammlung informiert die Mitglieder regelmäßig über ihre Tätigkeiten und Entscheidungen.
 
@@ -62,27 +61,23 @@ Die BürgerFreundlichePartei (BFP) setzt sich dafür ein, dass alle Bürgerinnen
 1. Alle Entscheidungen und Abstimmungen der Stellvertreter müssen für die Mitglieder, die sie gewählt haben, einsehbar sein.
 2. Die Informationen über die Entscheidungen der Stellvertreter sind nur für die jeweiligen Mitglieder zugänglich, um die Vertraulichkeit zu wahren.
 3. Mitglieder können jederzeit die Aktivitäten ihrer Stellvertreter überprüfen und gegebenenfalls ihre Stellvertretung ändern.
+4. Transparenz zu Nebeneinkünften der Partei
 
 #### §10 Bildung und Information
 
 1. Die Partei stellt umfangreiche Bildungs- und Informationsangebote bereit, um die fundierte Entscheidungsfindung der Mitglieder zu gewährleisten.
 2. Die Partei fördert offene und inklusive Diskussionen zu aktuellen politischen Themen.
 
-#### §11 Entlohnung
+#### §11 Auflösung der Partei
 
-1. Mitglieder, die persönlich an politischen Entscheidungsprozessen teilnehmen, werden entsprechend entlohnt.
-2. Auch die Stellvertreter, die im Auftrag der Mitglieder Entscheidungen treffen, erhalten eine angemessene Entlohnung.
+1. Die Auflösung der Partei kann nur durch einen Beschluss des Parteitags mit einer Mehrheit von drei Vierteln der anwesenden Mitglieder erfolgen.
+2. Im Falle der Auflösung fällt das Vermögen der Partei an eine gemeinnützige Organisation, die vom letzten Parteitag bestimmt wird.
 
-#### §12 Auflösung der Partei
+#### §12 Schutz der Gründungsmitglieder und des Vorstandes
 
-1. Die Auflösung der Partei kann nur durch einen Beschluss des Parteitags mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder erfolgen.
-2. Im Falle der Auflösung fällt das Vermögen der Partei an eine gemeinnützige Organisation, die vom Parteitag bestimmt wird.
+Gründungsmitglieder und der Vorstand der BürgerFreundlichePartei (BFP) können nicht ohne weiteres durch andere Mitglieder der Partei ausgeschlossen werden. Ein Ausschluss eines Gründungsmitglieds ist nur zulässig, wenn das Mitglied aktiv gegen die Partei handelt, dies öffentlich zur Schau stellt und dabei erheblichen Schaden für die Partei verursacht. Über den Ausschluss eines Gründungsmitglieds entscheidet der Parteitag mit einer Mehrheit von drei Vierteln der anwesenden Mitglieder.
 
-#### §13 Schutz der Gründungsmitglieder
+#### §13 Schlussbestimmungen
 
-Gründungsmitglieder der BürgerFreundlichenPartei (BFP) können nicht ohne weiteres durch andere Mitglieder der Partei ausgeschlossen werden. Ein Ausschluss eines Gründungsmitglieds ist nur zulässig, wenn das Mitglied aktiv gegen die Partei handelt, dies öffentlich zur Schau stellt und dabei erheblichen Schaden für die Partei verursacht. Über den Ausschluss eines Gründungsmitglieds entscheidet der Parteitag mit einer Mehrheit von drei Vierteln der anwesenden Mitglieder.
-
-#### §14 Schlussbestimmungen
-
-1. Diese Satzung tritt mit ihrer Beschlussfassung durch den Parteitag in Kraft.
-2. Änderungen der Satzung bedürfen einer Zweidrittelmehrheit des Parteitags.
+1. Diese Satzung tritt durch Beschlussfassung der Gründerversammlung in Kraft.
+2. Änderungen der Satzung bedürfen einer Dreiviertelmehrheit des Parteitags.

@@ -1,4 +1,4 @@
-# FAQ der BürgerFreundlichenPartei (BFP)
+# FAQ der BürgerFreundlichePartei (BFP)
 
 ## 1. Was ist die BürgerFreundlichePartei (BFP)?
 Die BürgerFreundlichePartei (BFP) ist eine politische Partei, die sich für die aktive Beteiligung aller Bürgerinnen und Bürger an politischen Entscheidungsprozessen einsetzt. Wir fördern eine transparente, inklusive und partizipative Demokratie, in der jede Stimme zählt.
@@ -50,4 +50,4 @@ Die Auflösung der Partei kann nur durch einen Beschluss des Parteitags mit eine
 
 ---
 
-Diese FAQ soll Ihnen einen Überblick über die Ziele und Strukturen der BürgerFreundlichenPartei geben. Für weitere Informationen und Fragen stehen wir Ihnen jederzeit zur Verfügung. Ihre Stimme zählt!
+Diese FAQ soll Ihnen einen Überblick über die Ziele und Strukturen der BürgerFreundlichePartei geben. Für weitere Informationen und Fragen stehen wir Ihnen jederzeit zur Verfügung. Ihre Stimme zählt!
