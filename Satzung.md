@@ -52,7 +52,7 @@ Die BürgerFreundlichePartei (BFP) setzt sich dafür ein, dass alle Bürgerinnen
 
 #### §8 Die Stellvertreterversammlung
 
-1. Die Stellvertreterversammlung besteht aus den gewählten Stellvertretern der Mitglieder auf kommunaler, regionaler, länder, nationaler und europäischer Ebene.
+1. Die Stellvertreterversammlung besteht aus den gewählten Stellvertretern der Mitglieder auf kommunaler, regionaler, Länder-, nationaler und europäischer Ebene.
 2. Die Stellvertreterversammlung trifft Entscheidungen im Auftrag der Mitglieder und stellt sicher, dass diese Entscheidungen transparent und bürgerfreundlich sind.
 3. Die Stellvertreterversammlung informiert die Mitglieder regelmäßig über ihre Tätigkeiten und Entscheidungen.
 

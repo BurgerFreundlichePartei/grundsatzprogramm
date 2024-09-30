@@ -9,7 +9,7 @@ Die BürgerFreundlichePartei (BFP) setzt sich dafür ein, dass alle Bürgerinnen
 Wir möchten, dass alle Bürgerinnen und Bürger die Möglichkeit haben, direkt an politischen Entscheidungen teilzunehmen. Dies umfasst Entscheidungen auf:
 
 - **Kommunaler Ebene**: In Städten und Gemeinden
-- **Landesebene**: In den einzelnen Bundesländern wie Bayern
+- **Landesebene**: In den einzelnen Bundesländern
 - **Nationaler Ebene**: In Deutschland
 - **Europäischer Ebene**: Im Europäischen Parlament
 
