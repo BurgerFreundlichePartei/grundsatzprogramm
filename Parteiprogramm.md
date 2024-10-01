@@ -1,9 +1,9 @@
 
-# Parteiprogramm der BürgerFreundlichenPartei (BFP)
+# Parteiprogramm der BFP
 
 ## Präambel
 
-Die BürgerFreundlichePartei (BFP) setzt sich dafür ein, dass alle Bürgerinnen und Bürger die Möglichkeit haben, aktiv an politischen Entscheidungsprozessen auf allen Ebenen teilzunehmen. Wir glauben an eine demokratische Gesellschaft, in der jede Stimme zählt und jeder Mensch die Chance hat, seine Meinung und Wünsche in die Politik einzubringen. Unser Ziel ist es, eine transparente, inklusive und partizipative Demokratie zu fördern und sicherzustellen, dass alle Entscheidungen bürgerfreundlich sind.
+Die BürgerFreundlichePartei im weiteren BFP gennant setzt sich dafür ein, dass alle Bürgerinnen und Bürger die Möglichkeit haben, aktiv an politischen Entscheidungsprozessen auf allen Ebenen teilzunehmen. Wir glauben an eine demokratische Gesellschaft, in der jede Stimme zählt und jeder Mensch die Chance hat, seine Meinung und Wünsche in die Politik einzubringen. Unser Ziel ist es, eine transparente, inklusive und partizipative Demokratie zu fördern und sicherzustellen, dass alle Entscheidungen bürgerfreundlich sind.
 
 ## 1. Grundsätze der BFP
 
@@ -52,4 +52,4 @@ Bürger, die nicht persönlich an allen Entscheidungen teilnehmen möchten, habe
 
 ## 4. Schlusswort
 
-Die BürgerFreundlichePartei steht für eine neue Art der politischen Teilhabe, in der jede Stimme zählt und jeder Bürger die Möglichkeit hat, seine Zukunft mitzugestalten. Gemeinsam schaffen wir eine transparente, gerechte und nachhaltige Gesellschaft für alle. Ihre Stimme zählt!
+Die BFP steht für eine neue Art der politischen Teilhabe, in der jede Stimme zählt und jeder Bürger die Möglichkeit hat, seine Zukunft mitzugestalten. Gemeinsam schaffen wir eine transparente, gerechte und nachhaltige Gesellschaft für alle. Ihre Stimme zählt!

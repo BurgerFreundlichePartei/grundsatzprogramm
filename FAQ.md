@@ -50,4 +50,4 @@ Die Auflösung der Partei kann nur durch einen Beschluss des Parteitags mit eine
 
 ---
 
-Diese FAQ soll Ihnen einen Überblick über die Ziele und Strukturen der BürgerFreundlichePartei geben. Für weitere Informationen und Fragen stehen wir Ihnen jederzeit zur Verfügung. Ihre Stimme zählt!
+Diese FAQ soll Ihnen einen Überblick über die Ziele und Strukturen der BFP geben. Für weitere Informationen und Fragen stehen wir Ihnen jederzeit zur Verfügung. Ihre Stimme zählt!
