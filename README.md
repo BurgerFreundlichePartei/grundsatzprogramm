@@ -2,7 +2,7 @@
 
 #### Präambel
 
-Die BürgerFreundlichePartei im weiteren BFP gennant setzt sich dafür ein, dass alle Bürgerinnen und Bürger die Möglichkeit haben, aktiv an politischen Entscheidungsprozessen auf allen Ebenen teilzunehmen. Wir glauben an eine demokratische Gesellschaft, in der jede Stimme zählt und jeder Mensch die Chance hat, seine Meinung und seine Wünsche in die Politik einzubringen. Unser Ziel ist es, eine transparente, inklusive und partizipative Demokratie zu fördern und sicherzustellen, dass alle Entscheidungen bürgerfreundlich sind.
+Die BürgerFreundlichePartei, im Weiteren BFP genannt, setzt sich dafür ein, dass alle Bürgerinnen und Bürger die Möglichkeit haben, aktiv an politischen Entscheidungsprozessen auf allen Ebenen teilzunehmen. Wir glauben an eine demokratische Gesellschaft, in der jede Stimme zählt und jeder Mensch die Chance hat, seine Meinung und seine Wünsche in die Politik einzubringen. Unser Ziel ist es, eine transparente, inklusive und partizipative Demokratie zu fördern und sicherzustellen, dass alle Entscheidungen bürgerfreundlich sind.
 
 #### 1. Prinzip der direkten Demokratie
 

@@ -2,7 +2,7 @@
 
 #### Präambel
 
-Die BürgerFreundlichePartei im weiteren BFP gennant setzt sich dafür ein, dass alle Bürgerinnen und Bürger die
+Die BürgerFreundlichePartei, im Weiteren BFP genannt, setzt sich dafür ein, dass alle Bürgerinnen und Bürger die
 Möglichkeit haben, aktiv an politischen Entscheidungsprozessen auf allen Ebenen teilzunehmen. Diese Satzung legt die
 organisatorischen und rechtlichen Grundlagen unserer Partei fest, um das im Grundsatzprogramm beschriebene Ziel einer
 transparenten, inklusiven und partizipativen Demokratie zu erreichen.
@@ -20,7 +20,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    Entscheidungen ein.
 2. Die Partei fördert die aktive Beteiligung der Bürgerinnen und Bürger an politischen Entscheidungsprozessen auf
    kommunaler, regionaler, nationaler und europäischer Ebene.
-3. Die Partei unterstützt die Transparenz und Rechenschaftspflicht politischer Entscheidungen und fördert die politische
+3. Die Partei unterstützt Transparenz und Rechenschaftspflicht politischer Entscheidungen und fördert die politische
    Bildung und Information der Bürger.
 
 #### §3 Mitgliedschaft
@@ -63,7 +63,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 2. Der Vorstand wird vom Parteitag für die Dauer von zwei Jahren gewählt.
 3. Der Vorstand führt die laufenden Geschäfte der Partei und vertritt die Partei nach außen.
 4. Der Vorstand ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist, wobei sowohl die
-   persönliche als auch die online Teilnahme als anwesend gilt.
+   persönliche als auch die Online-Teilnahme als anwesend gilt.
 
 #### §8 Die Stellvertreterversammlung
 
@@ -81,11 +81,11 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    die Vertraulichkeit zu wahren.
 3. Mitglieder können jederzeit die Aktivitäten ihrer Stellvertreter überprüfen und gegebenenfalls ihre Stellvertretung
    ändern.
-4. Transparenz zu Nebeneinkünften der Partei
+4. Transparenz zu Nebeneinkünften der Partei.
 
 #### §10 Bildung und Information
 
-1. Die Partei stellt umfangreiche Bildungs- und Informationsangebote bereit, um die fundierte Entscheidungsfindung der
+1. Die Partei stellt umfangreiche Bildungs- und Informationsangebote bereit, um eine fundierte Entscheidungsfindung der
    Mitglieder zu gewährleisten.
 2. Die Partei fördert offene und inklusive Diskussionen zu aktuellen politischen Themen.
 
@@ -98,11 +98,11 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 
 #### §12 Schutz der Gründungsmitglieder und des Vorstandes
 
-Gründungsmitglieder und der Vorstand der BFP können nicht ohne weiteres durch andere
-Mitglieder der Partei ausgeschlossen werden. Ein Ausschluss eines Gründungsmitglieds ist nur zulässig, wenn das Mitglied
-aktiv gegen die Partei handelt, dies öffentlich zur Schau stellt und dabei erheblichen Schaden für die Partei
-verursacht. Über den Ausschluss eines Gründungsmitglieds entscheidet der Parteitag mit einer Mehrheit von drei Vierteln
-der anwesenden Mitglieder.
+Gründungsmitglieder und der Vorstand der BFP können nicht ohne weiteres durch andere Mitglieder der Partei
+ausgeschlossen werden. Ein Ausschluss eines Gründungsmitglieds ist nur zulässig, wenn das Mitglied aktiv gegen die
+Partei handelt, dies öffentlich zur Schau stellt und dabei erheblichen Schaden für die Partei verursacht. Über den
+Ausschluss eines Gründungsmitglieds entscheidet der Parteitag mit einer Mehrheit von drei Vierteln der anwesenden
+Mitglieder.
 
 #### §13 Schlussbestimmungen
 
