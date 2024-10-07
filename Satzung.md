@@ -1,22 +1,22 @@
-### Satzung der BFP
+### Satzung der BFREI
 
 #### Präambel
 
-Die BürgerFreundlichePartei, im Weiteren BFP genannt, setzt sich dafür ein, dass alle Bürgerinnen und Bürger die
+Die BürgerFreundlichePartei, im Weiteren BFREI genannt, setzt sich dafür ein, dass alle Bürgerinnen und Bürger die
 Möglichkeit haben, aktiv an politischen Entscheidungsprozessen auf allen Ebenen teilzunehmen. Diese Satzung legt die
 organisatorischen und rechtlichen Grundlagen unserer Partei fest, um das im Grundsatzprogramm beschriebene Ziel einer
 transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 
 #### §1 Name, Sitz und Tätigkeitsgebiet
 
-1. Der Name der Partei lautet: BürgerFreundlichePartei (BFP).
+1. Der Name der Partei lautet: BürgerFreundlichePartei (BFREI).
 2. Der Sitz der Partei ist in Ludwigsburg.
 3. Das Tätigkeitsgebiet der Partei umfasst das gesamte Gebiet der Bundesrepublik Deutschland sowie die Ebene der
    Europäischen Union.
 
 #### §2 Ziele und Aufgaben
 
-1. Die BFP setzt sich für die Förderung der direkten Demokratie und die bürgerfreundliche Gestaltung aller politischen
+1. Die BFREI setzt sich für die Förderung der direkten Demokratie und die bürgerfreundliche Gestaltung aller politischen
    Entscheidungen ein.
 2. Die Partei fördert die aktive Beteiligung der Bürgerinnen und Bürger an politischen Entscheidungsprozessen auf
    kommunaler, regionaler, nationaler und europäischer Ebene.
@@ -25,7 +25,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 
 #### §3 Mitgliedschaft
 
-1. Mitglied der BFP kann jede natürliche Person werden, die das 16. Lebensjahr vollendet hat und die Ziele der Partei
+1. Mitglied der BFREI kann jede natürliche Person werden, die das 16. Lebensjahr vollendet hat und die Ziele der Partei
    unterstützt.
 2. Die Aufnahme in die Partei erfolgt auf schriftlichen Antrag. Über die Aufnahme entscheidet der Vorstand.
 3. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod. Der Austritt ist schriftlich gegenüber dem Vorstand zu
@@ -98,7 +98,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 
 #### §12 Schutz der Gründungsmitglieder und des Vorstandes
 
-Gründungsmitglieder und der Vorstand der BFP können nicht ohne weiteres durch andere Mitglieder der Partei
+Gründungsmitglieder und der Vorstand der BFREI können nicht ohne weiteres durch andere Mitglieder der Partei
 ausgeschlossen werden. Ein Ausschluss eines Gründungsmitglieds ist nur zulässig, wenn das Mitglied aktiv gegen die
 Partei handelt, dies öffentlich zur Schau stellt und dabei erheblichen Schaden für die Partei verursacht. Über den
 Ausschluss eines Gründungsmitglieds entscheidet der Parteitag mit einer Mehrheit von drei Vierteln der anwesenden

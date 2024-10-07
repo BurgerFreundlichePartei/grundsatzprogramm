@@ -1,14 +1,14 @@
-# Parteiprogramm der BFP
+# Parteiprogramm der BFREI
 
 ## Präambel
 
-Die BürgerFreundlichePartei, im Weiteren BFP genannt, setzt sich dafür ein, dass alle Bürgerinnen und Bürger die Möglichkeit haben, aktiv an politischen Entscheidungsprozessen auf allen Ebenen teilzunehmen. Wir glauben an eine demokratische Gesellschaft, in der jede Stimme zählt und jeder Mensch die Chance hat, seine Meinung und Wünsche in die Politik einzubringen. Unser Ziel ist es, eine transparente, inklusive und partizipative Demokratie zu fördern und sicherzustellen, dass alle Entscheidungen bürgerfreundlich sind.
+Die BürgerFreundlichePartei, im Weiteren BFREI genannt, setzt sich dafür ein, dass alle Bürgerinnen und Bürger die Möglichkeit haben, aktiv an politischen Entscheidungsprozessen auf allen Ebenen teilzunehmen. Wir glauben an eine demokratische Gesellschaft, in der jede Stimme zählt und jeder Mensch die Chance hat, seine Meinung und Wünsche in die Politik einzubringen. Unser Ziel ist es, eine transparente, inklusive und partizipative Demokratie zu fördern und sicherzustellen, dass alle Entscheidungen bürgerfreundlich sind.
 
-## 1. Grundsätze der BFP
+## 1. Grundsätze der BFREI
 
 ### 1.1 Direkte Demokratie
 
-Die BFP fordert die Einführung direkter Demokratie auf allen Ebenen: kommunal, regional, national und europäisch. Bürger sollen durch Volksentscheide und Bürgerbegehren aktiv in politische Entscheidungen eingebunden werden.
+Die BFREI fordert die Einführung direkter Demokratie auf allen Ebenen: kommunal, regional, national und europäisch. Bürger sollen durch Volksentscheide und Bürgerbegehren aktiv in politische Entscheidungen eingebunden werden.
 
 ### 1.2 Bürgerfreundlichkeit
 
@@ -26,7 +26,7 @@ Wir setzen uns für die Senkung von Steuern und die Abschaffung veralteter und u
 
 ### 2.2 Bildung und Innovation
 
-Die BFP fordert eine signifikante Erhöhung der Mittel für das Bildungssystem und die Modernisierung des Schulsystems. Wir setzen uns für die Förderung von Innovation und Technologie ein, um die Wettbewerbsfähigkeit Deutschlands zu steigern.
+Die BFREI fordert eine signifikante Erhöhung der Mittel für das Bildungssystem und die Modernisierung des Schulsystems. Wir setzen uns für die Förderung von Innovation und Technologie ein, um die Wettbewerbsfähigkeit Deutschlands zu steigern.
 
 ### 2.3 Soziale Gerechtigkeit
 
@@ -34,7 +34,7 @@ Wir setzen uns für die Förderung der sozialen Gerechtigkeit ein, um die Chance
 
 ### 2.4 Umwelt- und Klimaschutz
 
-Die BFP unterstützt nachhaltige Umwelt- und Klimaschutzmaßnahmen, um die natürlichen Ressourcen zu schützen und eine lebenswerte Umwelt für zukünftige Generationen zu sichern.
+Die BFREI unterstützt nachhaltige Umwelt- und Klimaschutzmaßnahmen, um die natürlichen Ressourcen zu schützen und eine lebenswerte Umwelt für zukünftige Generationen zu sichern.
 
 ### 2.5 Gesundheitssystem
 
@@ -42,17 +42,17 @@ Wir streben eine umfassende Verbesserung des Gesundheitssystems an, um eine hoch
 
 ### 2.6 Digitalisierung
 
-Die BFP fördert den flächendeckenden Ausbau der digitalen Infrastruktur, um die digitale Teilhabe aller Bürger zu gewährleisten und die Grundlage für eine moderne Wirtschaft zu schaffen.
+Die BFREI fördert den flächendeckenden Ausbau der digitalen Infrastruktur, um die digitale Teilhabe aller Bürger zu gewährleisten und die Grundlage für eine moderne Wirtschaft zu schaffen.
 
 ### 2.7 Sicherheit
 
-Die BFP arbeitet an der Stärkung der inneren Sicherheit durch effektive Maßnahmen zur Kriminalitätsbekämpfung und den Ausbau der Polizeipräsenz.
+Die BFREI arbeitet an der Stärkung der inneren Sicherheit durch effektive Maßnahmen zur Kriminalitätsbekämpfung und den Ausbau der Polizeipräsenz.
 
 ## 3. Organisatorische Struktur
 
 ### 3.1 Mitgliedschaft
 
-Mitglied der BFP kann jede natürliche Person werden, die das 16. Lebensjahr vollendet hat und die Ziele der Partei unterstützt. Die Aufnahme erfolgt auf schriftlichen Antrag.
+Mitglied der BFREI kann jede natürliche Person werden, die das 16. Lebensjahr vollendet hat und die Ziele der Partei unterstützt. Die Aufnahme erfolgt auf schriftlichen Antrag.
 
 ### 3.2 Organe der Partei
 
@@ -64,4 +64,4 @@ Bürger, die nicht persönlich an allen Entscheidungen teilnehmen möchten, habe
 
 ## 4. Schlusswort
 
-Die BFP steht für eine neue Art der politischen Teilhabe, in der jede Stimme zählt und jeder Bürger die Möglichkeit hat, seine Zukunft mitzugestalten. Gemeinsam schaffen wir eine transparente, gerechte und nachhaltige Gesellschaft für alle. Ihre Stimme zählt!
+Die BFREI steht für eine neue Art der politischen Teilhabe, in der jede Stimme zählt und jeder Bürger die Möglichkeit hat, seine Zukunft mitzugestalten. Gemeinsam schaffen wir eine transparente, gerechte und nachhaltige Gesellschaft für alle. Ihre Stimme zählt!
