@@ -24,7 +24,7 @@ Die BFREI unterstützt die Förderung von Innovation und Technologie, um die Wet
 
 Wir setzen uns für nachhaltige Umwelt- und Klimaschutzmaßnahmen ein, um die natürlichen Ressourcen zu schützen und eine lebenswerte Umwelt für zukünftige Generationen zu sichern.
 
-## 7. Ausbau der digitalen Infrastruktur
+## 7. Digitalisierung und Ausbau der digitalen Infrastruktur
 
 Die BFREI fördert den flächendeckenden Ausbau der digitalen Infrastruktur, um die digitale Teilhabe aller Bürger zu gewährleisten und die Grundlage für eine moderne Wirtschaft zu schaffen.
 
