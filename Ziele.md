@@ -56,6 +56,10 @@ Die BFREI setzt sich für die Verbesserung der Verkehrsinfrastruktur ein, um ein
 
 Wir unterstützen und fördern das ehrenamtliche Engagement der Bürger, um das soziale Zusammenleben zu stärken und die Gemeinschaft zu bereichern.
 
+## 15. Förderung der direkten Demokratie 
+    
+Die BFREI setzt sich für die Einführung und Stärkung direkter demokratischer Elemente ein. Dazu gehören Bürgerentscheide auf allen Ebenen, Volksabstimmungen zu wichtigen Themen und digitale Plattformen für eine einfache und sichere Bürgerbeteiligung. Wir möchten, dass die Bürgerinnen und Bürger die Möglichkeit haben, ihre Anliegen direkt in die Politik einzubringen und aktiv an Entscheidungen mitzuwirken.
+
 ---
 
 Diese Ziele repräsentieren das Engagement der BFREI für eine bürgernahe, gerechte und zukunftsorientierte Politik. Gemeinsam gestalten wir eine bessere Zukunft!
