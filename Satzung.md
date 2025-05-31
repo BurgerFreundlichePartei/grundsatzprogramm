@@ -9,7 +9,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 
 #### §1 Name, Sitz und Tätigkeitsgebiet
 
-1. Der Name der Partei lautet: BürgerFreundlichePartei (BFREI).
+1. Der Name der Partei lautet: BürgerFreundlichePartei (Kurzbezeichnung: BFREI).
 2. Der Sitz der Partei ist in Ludwigsburg.
 3. Das Tätigkeitsgebiet der Partei umfasst das gesamte Gebiet der Bundesrepublik Deutschland sowie die Ebene der
    Europäischen Union.
@@ -31,14 +31,13 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 2. Die Aufnahme in die Partei erfolgt auf schriftlichen Antrag. Über die Aufnahme entscheidet der Vorstand.
 3. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod. Der Austritt ist schriftlich gegenüber dem Vorstand zu
    erklären.
-4. Ein Mitglied kann ausgeschlossen werden, wenn es gegen die Satzung oder die Grundsätze der Partei verstößt. Über den
-   Ausschluss entscheidet der Vorstand.
+4. Ein Mitglied kann ausgeschlossen werden, wenn es gegen die Satzung oder die Grundsätze der Partei schwerwiegend
+   verstößt. Der Ausschluss erfolgt durch das Schiedsgericht nach Anhörung des betroffenen Mitglieds.
 5. Ordnungsmaßnahmen gegen Mitglieder, einschließlich Verwarnungen, Suspendierungen oder Ausschlüsse, können vom
-   Vorstand beschlossen werden. Vor der Entscheidung ist das betroffene Mitglied anzuhören und die Entscheidung
-   schriftlich zu begründen. Gegen die Entscheidung kann innerhalb von zwei Wochen nach Bekanntgabe Einspruch eingelegt
-   werden. Der Einspruch ist schriftlich beim Parteitag einzureichen, der endgültig entscheidet.
+   Vorstand beantragt werden. Das Schiedsgericht entscheidet darüber schriftlich und begründet. Gegen die Entscheidung
+   ist keine parteiinterne Beschwerde möglich.
 6. In dringenden Fällen kann der Vorstand vorläufige Maßnahmen, wie die Suspendierung eines Mitglieds, beschließen.
-   Diese Maßnahmen sind innerhalb von zwei Wochen vom Parteitag zu bestätigen.
+   Diese Maßnahmen sind innerhalb von zwei Wochen vom Schiedsgericht zu bestätigen
 
 #### §4 Rechte und Pflichten der Mitglieder
 
@@ -49,18 +48,22 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 #### §5 Organe der Partei
 
 1. Die Organe der Partei sind:
+
     - Der Parteitag
     - Der Vorstand
     - Die Stellvertreterversammlung
+    - Das Schiedsgericht
 2. Die Partei gliedert sich in folgende Gebietsverbände:
+
     1. Ortsverbände
     2. Kreisverbände
     3. Landesverbände
-    4. Bundesverband Die Gliederung erfolgt gemäß §7 PartG.
+    4. Bundesverband
+       Die Gliederung erfolgt gemäß §7 PartG.
 3. Gegen Gebietsverbände, die gegen die Satzung oder Beschlüsse der übergeordneten Organe verstoßen, können
    Ordnungsmaßnahmen wie Verwarnungen oder Suspendierungen durch den Vorstand beschlossen werden. Vor der Entscheidung
    ist der betroffene Gebietsverband anzuhören. Gegen die Entscheidung kann innerhalb von zwei Wochen Einspruch
-   eingelegt werden, über den der Parteitag endgültig entscheidet.
+   eingelegt werden. Die Maßnahmen bedürfen der Bestätigung durch das Schiedsgericht.
 
 #### §6 Der Parteitag
 
@@ -89,11 +92,11 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 
 #### §8 Die Stellvertreterversammlung
 
-1. Die Stellvertreterversammlung besteht aus den gewählten Stellvertretern der Mitglieder auf kommunaler, regionaler,
-   Länder-, nationaler und europäischer Ebene.
-2. Die Stellvertreterversammlung trifft Entscheidungen im Auftrag der Mitglieder und stellt sicher, dass diese
-   Entscheidungen transparent und bürgerfreundlich sind.
-3. Die Stellvertreterversammlung informiert die Mitglieder regelmäßig über ihre Tätigkeiten und Entscheidungen.
+1. Die Stellvertreterversammlung besteht aus den gewählten Delegierten der Mitglieder auf kommunaler, regionaler,
+   Landes-,
+   nationaler und europäischer Ebene.
+2. Sie hat beratende Funktion und kann dem Vorstand und dem Parteitag Empfehlungen aussprechen.
+3. Die Zusammensetzung und Wahlmodalitäten werden durch eine vom Parteitag zu beschließende Geschäftsordnung geregelt.
 4. Die Stellvertreterversammlung ist befugt, Wahlvorschläge für Wahlen zu Volksvertretungen zu unterzeichnen, soweit
    keine gesetzlichen Vorschriften entgegenstehen.
 
@@ -105,7 +108,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    die Vertraulichkeit zu wahren.
 3. Mitglieder können jederzeit die Aktivitäten ihrer Stellvertreter überprüfen und gegebenenfalls ihre Stellvertretung
    ändern.
-4. Transparenz zu Nebeneinkünften der Partei.
+4. Transparenz zu Nebeneinkünften der Partei wird gewährleistet.
 
 #### §10 Bildung und Information
 
@@ -123,15 +126,18 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    Mitglieder bestätigt werden. Die Urabstimmung wird vom Vorstand organisiert und erfolgt schriftlich. Das Ergebnis der
    Urabstimmung wird mit einfacher Mehrheit entschieden.
 
-#### §12 Schutz der Gründungsmitglieder und des Vorstandes
+#### §12 Schutz besonderer Funktionen
 
-Gründungsmitglieder und der Vorstand der BFREI können nicht ohne weiteres durch andere Mitglieder der Partei
-ausgeschlossen werden. Ein Ausschluss eines Gründungsmitglieds ist nur zulässig, wenn das Mitglied aktiv gegen die
-Partei handelt, dies öffentlich zur Schau stellt und dabei erheblichen Schaden für die Partei verursacht. Über den
-Ausschluss eines Gründungsmitglieds entscheidet der Parteitag mit einer Mehrheit von drei Vierteln der anwesenden
-Mitglieder.
+Mitglieder, die besondere Funktionen in der Partei ausüben (z. B. Gründungsmitglieder oder Vorstandsmitglieder), können
+bei schwerwiegenden parteischädigenden Handlungen gemäß §3 durch das Schiedsgericht ausgeschlossen werden. Für den
+Ausschluss ist eine qualifizierte Mehrheit im Schiedsgericht erforderlich. Eine gesonderte Behandlung dieser Mitglieder
+erfolgt nicht.
 
-### §13 Finanzordnung:
+#### §13 Beitragsordnung
+
+Die Beitragshöhe und deren Fälligkeit werden in einer vom Parteitag zu beschließenden Beitragsordnung geregelt.
+
+#### §14 Finanzordnung
 
 1. Die Partei verpflichtet sich, über ihre Einnahmen und Ausgaben sowie ihr Vermögen Buch zu führen (§23-28 PartG).
 2. Die Einnahme- und Ausgabearten werden jährlich in einem Rechenschaftsbericht gemäß §24 PartG offengelegt.
@@ -140,7 +146,15 @@ Mitglieder.
 4. Der Schatzmeister trägt die Verantwortung für die ordnungsgemäße Buchführung und die Erstellung des
    Rechenschaftsberichts.
 
-#### §14 Schlussbestimmungen
+#### §15 Schiedsgericht
+
+1. Die Partei richtet ein Schiedsgericht ein, das bei Streitigkeiten über Mitgliedsrechte und Ordnungsmaßnahmen
+   entscheidet.
+2. Das Schiedsgericht besteht aus drei gewählten Mitgliedern, die nicht dem Vorstand angehören dürfen.
+3. Entscheidungen des Schiedsgerichts erfolgen schriftlich und sind zu begründen.
+4. Gegen Entscheidungen des Schiedsgerichts ist keine parteiinterne Beschwerde zulässig.
+
+#### §16 Schlussbestimmungen
 
 1. Diese Satzung tritt durch Beschlussfassung der Gründerversammlung in Kraft.
 2. Änderungen der Satzung bedürfen einer Dreiviertelmehrheit des Parteitags.
