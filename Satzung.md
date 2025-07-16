@@ -38,6 +38,11 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    ist keine parteiinterne Beschwerde möglich.
 6. In dringenden Fällen kann der Vorstand vorläufige Maßnahmen, wie die Suspendierung eines Mitglieds, beschließen.
    Diese Maßnahmen sind innerhalb von zwei Wochen vom Schiedsgericht zu bestätigen
+7. Gegen Entscheidungen des Schiedsgerichts über den Ausschluss eines Mitglieds ist die Berufung an ein Schiedsgericht
+   höherer Stufe zulässig. Dieses Berufungsschiedsgericht wird vom Parteitag gesondert gewählt und darf nicht mit
+   Mitgliedern des erstinstanzlichen Schiedsgerichts besetzt sein.
+8. Die Partei gewährleistet in allen Ordnungsverfahren, insbesondere beim Ausschluss von Mitgliedern, die Möglichkeit
+   zur Überprüfung durch zwei parteiinterne Instanzen entsprechend §14 Abs. 1 PartG.
 
 #### §4 Rechte und Pflichten der Mitglieder
 
@@ -70,7 +75,16 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 1. Der Parteitag ist das höchste Organ der Partei. Er setzt sich aus allen Mitgliedern der Partei zusammen.
 2. Der Parteitag findet mindestens einmal jährlich statt. Er wird vom Vorstand unter Angabe der Tagesordnung und einer
    Frist von mindestens vier Wochen einberufen.
-3. Der Parteitag wählt den Vorstand, beschließt das Parteiprogramm und entscheidet über Satzungsänderungen.
+3. Der Parteitag hat insbesondere folgende Befugnisse:
+    - Wahl des Vorstands,
+    - Wahl des Berufungsschiedsgerichts,
+    - Beschluss über das Parteiprogramm,
+    - Beschluss und Änderung der Satzung,
+    - Beschluss der Beitragsordnung,
+    - Beschluss der Finanzordnung,
+    - Entgegennahme und Genehmigung des Rechenschaftsberichts,
+    - Auflösung oder Verschmelzung der Partei,
+    - Entscheidung über sonstige grundlegende Fragen der Parteiarbeit.
 4. Der Parteitag ist beschlussfähig, wenn mindestens 35% der Mitglieder anwesend sind.
 5. Die Teilnahme am Parteitag kann sowohl persönlich als auch online erfolgen. Die technischen Voraussetzungen für die
    Online-Teilnahme werden rechtzeitig durch den Vorstand bekanntgegeben.
