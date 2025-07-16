@@ -66,7 +66,9 @@ Alle Organe der Partei sind in ihrer Tätigkeit an demokratische Grundsätze geb
     2. Kreisverbände
     3. Landesverbände
     4. Bundesverband
-       Die Gliederung erfolgt gemäß §7 PartG.
+    
+    Die Gliederung erfolgt gemäß §7 PartG.
+
 3. Gegen Gebietsverbände, die gegen die Satzung oder Beschlüsse der übergeordneten Organe verstoßen, können
    Ordnungsmaßnahmen wie Verwarnungen oder Suspendierungen durch den Vorstand beschlossen werden. Vor der Entscheidung
    ist der betroffene Gebietsverband anzuhören. Gegen die Entscheidung kann innerhalb von zwei Wochen Einspruch
