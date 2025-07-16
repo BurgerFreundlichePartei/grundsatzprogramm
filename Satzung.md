@@ -46,6 +46,8 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 
 ## §4 Rechte und Pflichten der Mitglieder
 
+Alle Organe der Partei sind in ihrer Tätigkeit an demokratische Grundsätze gebunden.
+
 1. Jedes Mitglied hat das Recht, an der politischen Willensbildung innerhalb der Partei mitzuwirken.
 2. Jedes Mitglied hat die Pflicht, die Ziele der Partei zu unterstützen und aktiv an der Verwirklichung der Parteiziele
    mitzuwirken.
@@ -162,6 +164,11 @@ Die Beitragshöhe und deren Fälligkeit werden in einer vom Parteitag zu beschli
 
 ## §15 Schiedsgericht
 
+Zusätzlich zum ordentlichen Schiedsgericht richtet die Partei ein Berufungsschiedsgericht ein, das ausschließlich für
+die Überprüfung erstinstanzlicher Schiedsgerichtsurteile zuständig ist. Es besteht aus drei Mitgliedern, die vom
+Parteitag für die Dauer von zwei Jahren gewählt werden. Mitglieder des Berufungsschiedsgerichts dürfen nicht
+gleichzeitig dem ordentlichen Schiedsgericht angehören.
+
 1. Die Partei richtet ein Schiedsgericht ein, das bei Streitigkeiten über Mitgliedsrechte und Ordnungsmaßnahmen
    entscheidet.
 2. Das Schiedsgericht besteht aus drei gewählten Mitgliedern, die nicht dem Vorstand angehören dürfen.
@@ -169,6 +176,9 @@ Die Beitragshöhe und deren Fälligkeit werden in einer vom Parteitag zu beschli
 4. Gegen Entscheidungen des Schiedsgerichts ist keine parteiinterne Beschwerde zulässig.
 
 ## §16 Schlussbestimmungen
+
+Die Einzelheiten zu Verfahren und Fristen des Schiedsgerichts können in einer Schiedsgerichtsordnung geregelt werden,
+die vom Parteitag beschlossen wird.
 
 1. Diese Satzung tritt durch Beschlussfassung der Gründerversammlung in Kraft.
 2. Änderungen der Satzung bedürfen einer Dreiviertelmehrheit des Parteitags.
