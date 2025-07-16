@@ -37,7 +37,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    Vorstand beantragt werden. Das Schiedsgericht entscheidet darüber schriftlich und begründet. Gegen die Entscheidung
    ist keine parteiinterne Beschwerde möglich.
 6. In dringenden Fällen kann der Vorstand vorläufige Maßnahmen, wie die Suspendierung eines Mitglieds, beschließen.
-   Diese Maßnahmen sind innerhalb von zwei Wochen vom Schiedsgericht zu bestätigen
+   Diese Maßnahmen sind innerhalb von zwei Wochen vom Schiedsgericht zu bestätigen.
 7. Gegen Entscheidungen des Schiedsgerichts über den Ausschluss eines Mitglieds ist die Berufung an ein Schiedsgericht
    höherer Stufe zulässig. Dieses Berufungsschiedsgericht wird vom Parteitag gesondert gewählt und darf nicht mit
    Mitgliedern des erstinstanzlichen Schiedsgerichts besetzt sein.
