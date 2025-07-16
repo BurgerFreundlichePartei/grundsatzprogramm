@@ -1,13 +1,13 @@
-### Satzung der BFREI
+# Satzung der BFREI
 
-#### Präambel
+## Präambel
 
 Die BürgerFreundlichePartei, im Weiteren BFREI genannt, setzt sich dafür ein, dass alle Bürgerinnen und Bürger die
 Möglichkeit haben, aktiv an politischen Entscheidungsprozessen auf allen Ebenen teilzunehmen. Diese Satzung legt die
 organisatorischen und rechtlichen Grundlagen unserer Partei fest, um das im Grundsatzprogramm beschriebene Ziel einer
 transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 
-#### §1 Name, Sitz und Tätigkeitsgebiet
+## §1 Name, Sitz und Tätigkeitsgebiet
 
 1. Der Name der Partei lautet: BürgerFreundlichePartei (Kurzbezeichnung: BFREI).
 2. Der Sitz der Partei ist in Ludwigsburg.
@@ -15,7 +15,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    Europäischen Union.
 4. Die Kurzbezeichnung der Partei lautet: BFREI.
 
-#### §2 Ziele und Aufgaben
+## §2 Ziele und Aufgaben
 
 1. Die BFREI setzt sich für die Förderung der direkten Demokratie und die bürgerfreundliche Gestaltung aller politischen
    Entscheidungen ein.
@@ -24,7 +24,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 3. Die Partei unterstützt Transparenz und Rechenschaftspflicht politischer Entscheidungen und fördert die politische
    Bildung und Information der Bürger.
 
-#### §3 Mitgliedschaft
+## §3 Mitgliedschaft
 
 1. Mitglied der BFREI kann jede natürliche Person werden, die das 16. Lebensjahr vollendet hat und die Ziele der Partei
    unterstützt.
@@ -44,13 +44,13 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 8. Die Partei gewährleistet in allen Ordnungsverfahren, insbesondere beim Ausschluss von Mitgliedern, die Möglichkeit
    zur Überprüfung durch zwei parteiinterne Instanzen entsprechend §14 Abs. 1 PartG.
 
-#### §4 Rechte und Pflichten der Mitglieder
+## §4 Rechte und Pflichten der Mitglieder
 
 1. Jedes Mitglied hat das Recht, an der politischen Willensbildung innerhalb der Partei mitzuwirken.
 2. Jedes Mitglied hat die Pflicht, die Ziele der Partei zu unterstützen und aktiv an der Verwirklichung der Parteiziele
    mitzuwirken.
 
-#### §5 Organe der Partei
+## §5 Organe der Partei
 
 1. Die Organe der Partei sind:
 
@@ -70,7 +70,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    ist der betroffene Gebietsverband anzuhören. Gegen die Entscheidung kann innerhalb von zwei Wochen Einspruch
    eingelegt werden. Die Maßnahmen bedürfen der Bestätigung durch das Schiedsgericht.
 
-#### §6 Der Parteitag
+## §6 Der Parteitag
 
 1. Der Parteitag ist das höchste Organ der Partei. Er setzt sich aus allen Mitgliedern der Partei zusammen.
 2. Der Parteitag findet mindestens einmal jährlich statt. Er wird vom Vorstand unter Angabe der Tagesordnung und einer
@@ -92,7 +92,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    Tagesordnung. Die Einladungsfrist beträgt vier Wochen. Die Beschlüsse des Parteitags sind durch einen Protokollführer
    schriftlich zu beurkunden und vom Versammlungsleiter sowie dem Protokollführer zu unterzeichnen.
 
-#### §7 Der Vorstand
+## §7 Der Vorstand
 
 1. Der Vorstand besteht aus dem Vorsitzenden, einem Stellvertreter, dem Schatzmeister und bis zu drei weiteren
    Mitgliedern.
@@ -104,7 +104,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    übergeordneten Organe, insbesondere des Parteitags. Er trägt die Verantwortung für die Einhaltung aller gesetzlichen
    Verpflichtungen der Partei.
 
-#### §8 Die Stellvertreterversammlung
+## §8 Die Stellvertreterversammlung
 
 1. Die Stellvertreterversammlung besteht aus den gewählten Delegierten der Mitglieder auf kommunaler, regionaler,
    Landes-,
@@ -114,7 +114,7 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
 4. Die Stellvertreterversammlung ist befugt, Wahlvorschläge für Wahlen zu Volksvertretungen zu unterzeichnen, soweit
    keine gesetzlichen Vorschriften entgegenstehen.
 
-#### §9 Transparenz und Rechenschaftspflicht
+## §9 Transparenz und Rechenschaftspflicht
 
 1. Alle Entscheidungen und Abstimmungen der Stellvertreter müssen für die Mitglieder, die sie gewählt haben, einsehbar
    sein.
@@ -124,13 +124,13 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    ändern.
 4. Transparenz zu Nebeneinkünften der Partei wird gewährleistet.
 
-#### §10 Bildung und Information
+## §10 Bildung und Information
 
 1. Die Partei stellt umfangreiche Bildungs- und Informationsangebote bereit, um eine fundierte Entscheidungsfindung der
    Mitglieder zu gewährleisten.
 2. Die Partei fördert offene und inklusive Diskussionen zu aktuellen politischen Themen.
 
-#### §11 Auflösung der Partei
+## §11 Auflösung der Partei
 
 1. Die Auflösung der Partei kann nur durch einen Beschluss des Parteitags mit einer Mehrheit von drei Vierteln der
    anwesenden Mitglieder erfolgen.
@@ -140,18 +140,18 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    Mitglieder bestätigt werden. Die Urabstimmung wird vom Vorstand organisiert und erfolgt schriftlich. Das Ergebnis der
    Urabstimmung wird mit einfacher Mehrheit entschieden.
 
-#### §12 Schutz besonderer Funktionen
+## §12 Schutz besonderer Funktionen
 
 Mitglieder, die besondere Funktionen in der Partei ausüben (z. B. Gründungsmitglieder oder Vorstandsmitglieder), können
 bei schwerwiegenden parteischädigenden Handlungen gemäß §3 durch das Schiedsgericht ausgeschlossen werden. Für den
 Ausschluss ist eine qualifizierte Mehrheit im Schiedsgericht erforderlich. Eine gesonderte Behandlung dieser Mitglieder
 erfolgt nicht.
 
-#### §13 Beitragsordnung
+## §13 Beitragsordnung
 
 Die Beitragshöhe und deren Fälligkeit werden in einer vom Parteitag zu beschließenden Beitragsordnung geregelt.
 
-#### §14 Finanzordnung
+## §14 Finanzordnung
 
 1. Die Partei verpflichtet sich, über ihre Einnahmen und Ausgaben sowie ihr Vermögen Buch zu führen (§23-28 PartG).
 2. Die Einnahme- und Ausgabearten werden jährlich in einem Rechenschaftsbericht gemäß §24 PartG offengelegt.
@@ -160,7 +160,7 @@ Die Beitragshöhe und deren Fälligkeit werden in einer vom Parteitag zu beschli
 4. Der Schatzmeister trägt die Verantwortung für die ordnungsgemäße Buchführung und die Erstellung des
    Rechenschaftsberichts.
 
-#### §15 Schiedsgericht
+## §15 Schiedsgericht
 
 1. Die Partei richtet ein Schiedsgericht ein, das bei Streitigkeiten über Mitgliedsrechte und Ordnungsmaßnahmen
    entscheidet.
@@ -168,7 +168,7 @@ Die Beitragshöhe und deren Fälligkeit werden in einer vom Parteitag zu beschli
 3. Entscheidungen des Schiedsgerichts erfolgen schriftlich und sind zu begründen.
 4. Gegen Entscheidungen des Schiedsgerichts ist keine parteiinterne Beschwerde zulässig.
 
-#### §16 Schlussbestimmungen
+## §16 Schlussbestimmungen
 
 1. Diese Satzung tritt durch Beschlussfassung der Gründerversammlung in Kraft.
 2. Änderungen der Satzung bedürfen einer Dreiviertelmehrheit des Parteitags.
