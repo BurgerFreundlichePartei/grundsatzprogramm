@@ -43,6 +43,10 @@ transparenten, inklusiven und partizipativen Demokratie zu erreichen.
    Mitgliedern des erstinstanzlichen Schiedsgerichts besetzt sein.
 8. Die Partei gewährleistet in allen Ordnungsverfahren, insbesondere beim Ausschluss von Mitgliedern, die Möglichkeit
    zur Überprüfung durch zwei parteiinterne Instanzen entsprechend §14 Abs. 1 PartG.
+9. Ordnungsmaßnahmen sind insbesondere zulässig bei:
+    1. groben oder wiederholten Verstößen gegen Satzung, Programm oder Beschlüsse der Partei,
+    2. schuldhafter Verletzung der Mitgliedspflichten,
+    3. parteischädigendem Verhalten, das geeignet ist, das Ansehen oder die Arbeit der Partei erheblich zu beeinträchtigen.
 
 ## §4 Rechte und Pflichten der Mitglieder
 
@@ -95,6 +99,9 @@ Alle Organe der Partei sind in ihrer Tätigkeit an demokratische Grundsätze geb
 6. Die Einberufung des Parteitags erfolgt schriftlich per E-Mail oder Brief durch den Vorstand unter Angabe der
    Tagesordnung. Die Einladungsfrist beträgt vier Wochen. Die Beschlüsse des Parteitags sind durch einen Protokollführer
    schriftlich zu beurkunden und vom Versammlungsleiter sowie dem Protokollführer zu unterzeichnen.
+7. Die in § 9 Abs. 5 PartG genannten Angelegenheiten, insbesondere die Wahl des Vorstands, die Wahl des Schiedsgerichts,
+   Beschlüsse über Satzungs- und Programmänderungen sowie die Auflösung oder Verschmelzung der Partei,
+   sind ausschließlich der Beschlussfassung durch den Parteitag vorbehalten.
 
 ## §7 Der Vorstand
 
@@ -111,8 +118,7 @@ Alle Organe der Partei sind in ihrer Tätigkeit an demokratische Grundsätze geb
 ## §8 Die Stellvertreterversammlung
 
 1. Die Stellvertreterversammlung besteht aus den gewählten Delegierten der Mitglieder auf kommunaler, regionaler,
-   Landes-,
-   nationaler und europäischer Ebene.
+   Landes-, nationaler und europäischer Ebene.
 2. Sie hat beratende Funktion und kann dem Vorstand und dem Parteitag Empfehlungen aussprechen.
 3. Die Zusammensetzung und Wahlmodalitäten werden durch eine vom Parteitag zu beschließende Geschäftsordnung geregelt.
 4. Die Stellvertreterversammlung ist befugt, Wahlvorschläge für Wahlen zu Volksvertretungen zu unterzeichnen, soweit

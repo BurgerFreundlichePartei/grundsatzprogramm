@@ -1,0 +1,103 @@
+/* ===== Grundlayout ===== */
+:root {
+    --text: #111;
+    --accent: #222;
+    --muted: #666;
+    --line: #333;
+}
+
+html { font-size: 12pt; }
+html:lang(de) { hyphens: auto; }
+body {
+    font-family: "Noto Serif", "DejaVu Serif", "Liberation Serif", serif;
+    color: var(--text);
+    line-height: 1.38;
+    widows: 2; orphans: 2;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+    counter-reset: h2;
+}
+
+/* ===== Seite / Paged Media ===== */
+@page {
+    size: A4;
+    margin: 25mm 22mm 25mm 22mm;
+    @bottom-center {
+        content: "Satzung BFREI — " counter(page) " / " counter(pages);
+        font-size: 9pt;
+        color: var(--muted);
+    }
+}
+@page:left  { margin-left: 25mm; margin-right: 19mm; }
+@page:right { margin-left: 19mm; margin-right: 25mm; }
+
+/* ===== Titel & Überschriften ===== */
+h1, h2, h3 { page-break-after: avoid; break-after: avoid; }
+h1 {
+    font-family: "Noto Sans", "DejaVu Sans", Arial, sans-serif;
+    font-size: 20pt;
+    letter-spacing: .02em;
+    text-align: center;
+    margin: 0 0 12mm 0;
+    color: var(--accent);
+}
+h2 {
+    font-family: "Noto Sans", "DejaVu Sans", Arial, sans-serif;
+    font-size: 14pt;
+    margin: 8mm 0 3mm 0;
+    border-top: 0.5pt solid var(--line);
+    padding-top: 2mm;
+    color: var(--accent);
+}
+h3 {
+    font-family: "Noto Sans", "DejaVu Sans", Arial, sans-serif;
+    font-size: 12.5pt;
+    margin: 6mm 0 2mm 0;
+    color: var(--accent);
+}
+
+/* ===== Fließtext ===== */
+p { margin: 0 0 3.5mm 0; }
+strong, b { color: var(--accent); }
+
+/* ===== Listen ===== */
+ul, ol { margin: 0 0 3.5mm 6mm; }
+li { margin: 1.5mm 0; page-break-inside: avoid; }
+li > p { margin: 0; }           /* verhindert „1.“ auf eigener Zeile */
+ol { list-style-type: decimal; }
+ul { list-style-type: disc; }
+
+/* ===== Tabellen ===== */
+table { border-collapse: collapse; width: 100%; margin: 4mm 0; }
+th, td { border: 0.5pt solid var(--line); padding: 2.5mm; }
+thead th { background: #f1f1f1; }
+
+/* ===== Zitate / Code (falls benutzt) ===== */
+blockquote {
+    margin: 3mm 0; padding: 2.5mm 4mm; border-left: 2pt solid var(--line);
+    color: var(--accent);
+}
+code, pre {
+    font-family: "DejaVu Sans Mono", "Liberation Mono", monospace;
+    font-size: 10pt;
+}
+pre { border: 0.5pt solid #ddd; padding: 3mm; overflow: auto; }
+
+/* ===== Inhaltsverzeichnis (Pandoc --toc) ===== */
+#TOC, nav#TOC, .toc {
+    border: 0.5pt solid #ddd; padding: 4mm; margin: 0 0 8mm 0;
+}
+#TOC > ul, nav#TOC > ul, .toc > ul { list-style: none; margin: 0; padding: 0; }
+#TOC li, nav#TOC li, .toc li { margin: 1.5mm 0; }
+#TOC a, nav#TOC a, .toc a { text-decoration: none; color: var(--text); }
+
+/* ===== Links neutralisieren für Print ===== */
+a { color: inherit; text-decoration: none; }
+a[href^="http"]::after { content: ""; } /* keine URLs im Print anhängen */
+
+/* ===== Seitenumbrüche steuern ===== */
+h2, h3, table, blockquote, pre { break-inside: avoid; }
+
+/* ===== Fußnoten (falls benutzt) ===== */
+.footnotes { border-top: 0.5pt solid #ddd; margin-top: 8mm; padding-top: 3mm; }
+.footnotes ol { margin-left: 5mm; }
